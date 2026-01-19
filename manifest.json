@@ -1,0 +1,22 @@
+
+{
+  "name": "教师成绩计算器 Pro",
+  "short_name": "教师计算器",
+  "description": "专为教师设计的成绩统计与 AI 分析工具",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067451.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067451.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

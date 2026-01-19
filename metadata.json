@@ -1,0 +1,5 @@
+{
+  "name": "教师成绩统计计算器",
+  "description": "专为教师设计的成绩分析工具，支持班级平均分、方差、分数段分布统计及AI教学建议。",
+  "requestFramePermissions": []
+}
